@@ -2,4 +2,4 @@ flask
 flask_sqlalchemy
 flask-login
 pandas
-guicorn
+gunicorn
