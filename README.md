@@ -31,6 +31,9 @@ Base de dados: https://sistemas.anac.gov.br/dadosabertos/Voos%20e%20opera%C3%A7%
 ---
 # Case Desenvolvedor GOL - Solução
 
+## Preparação do ambiente
+- Instalar os frameworks e bibliotecas contidos em ```requirements.txt```
+
 ## Criação da tabela
 - Para criar o banco de dados, coloque o arquivo ```Dados_Estatisticos.csv``` dentro da pasta ```data/```, na raiz do projeto.
 - Executar o arquivo ```import_data.py```.
